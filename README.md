@@ -12,7 +12,7 @@ I'm a Computer Science and Engineering student at Daffodil International Univers
 <!-- Add a skill to an existing row, or add a new row for a new category. -->
 | Category | Skills |
 | --- | --- |
-| **Languages** | Python, C++, Dart, SQL |
+| **Languages** | Python, C, C++, Dart, SQL |
 | **ML & Data** | scikit-learn, XGBoost, SHAP, pandas, NumPy, Computer Vision |
 | **Frameworks & Backend** | FastAPI, Streamlit, Flutter |
 | **Databases & Tools** | MySQL, Firebase (Firestore & Auth), Git, Flex, Bison, IntelliJ IDEA, VS Code |
