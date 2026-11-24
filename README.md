@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Md. Ibna Labid 👋</h1>
-<h3 align="center">AI/ML Engineer</h3>
+<h3 align="center">Enthusiast AI/ML Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mdibnalabid"><img src="https://img.shields.io/badge/LinkedIn-mdibnalabid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -10,8 +10,7 @@
 ## 🙋 About Me
 
 - 🎓 CSE Undergrad (AI/ML Major) at **Daffodil International University**
-- 🧠 Coursework in **Machine Learning** and **Computer Vision**
-- 💼 Former **AI Intern @ DecodeLabs**
+- 🧠 Coursework in **Machine Learning**, **Computer Vision**, and **Natural Language Processing**
 - 🔬 Researching geo-linguistic audio analysis for dialect and speaker identification
 - 🚀 Building explainable ML models and the apps and APIs that serve them
 
@@ -24,17 +23,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,dart&perline=10" alt="Python, C, C++, Dart" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-</p>
-
-**ML & Data Science**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn&perline=10" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/SHAP-FF0D57?style=for-the-badge" alt="SHAP" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" alt="Computer Vision" />
 </p>
 
 **Web & Mobile**
