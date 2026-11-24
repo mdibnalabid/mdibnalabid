@@ -61,10 +61,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdibnalabid&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
-</p>
-
 ## 🚀 Featured Projects
 
 <!-- Add a new project as a new row. -->
